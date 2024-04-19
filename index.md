@@ -1,7 +1,10 @@
 # # 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-
-var myVar = "Hello, world!";
+「」
+$ git初期化
+/Users/skills/Projects/recipe-repository/.git/ にある空の Git リポジトリを初期化しました
+「」
+``` JavaScript
+var myVar = "こんにちは、世界!";
+「」
