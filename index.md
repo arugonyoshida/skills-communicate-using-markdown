@@ -8,3 +8,6 @@ $ git初期化
 ``` JavaScript
 var myVar = "こんにちは、世界!";
 「」
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
